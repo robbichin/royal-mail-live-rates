@@ -1,0 +1,13 @@
+origin,countries,service,weight_g_min,weight_g_max,length_max_cm,width_max_cm,depth_max_cm,price
+GB,GB,Royal Mail Large Letter 1st Class,1,250,35.3,25,2.5,1.95
+GB,GB,Royal Mail Large Letter 1st Class,251,750,35.3,25,2.5,2.8
+GB,GB,Royal Mail Small Parcel 1st Class,751,950,45,35,16,4.5
+GB,GB,Royal Mail Small Parcel 1st Class,951,1450,45,35,16,6.8
+GB,GB,Royal Mail Small Parcel 1st Class,1451,1950,45,35,16,8.6
+NIR,NIR,Fastway Courier,951,19550,200,200,200,7.5
+GB,"IE,FR,IT,ES,PL,DE",Royal Mail Large Letter 1st Class,1,250,35.3,25,2.5,2.45
+GB,"IE,FR,IT,ES,PL,DE",Royal Mail Large Letter 1st Class,251,700,35.3,25,2.5,7.5
+GB,"IE,FR,IT,ES,PL,DE",Royal Mail Small Parcel 1st Class,701,950,45,35,16,10.4
+NIR,IE,Fastway Courier,951,19550,200,200,200,11.5
+GB,"MY,SG,CN,JP,TW",Royal Mail Large Letter 1st Class,1,250,35.3,25,2.5,4.8
+GB,"MY,SG,CN,JP,TW",Royal Mail Small Parcel 1st Class,251,950,45,35,16,12.6
